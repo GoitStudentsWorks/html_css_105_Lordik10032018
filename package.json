@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/TeamProjectGo/",
+    "build": "vite build --base=/html_css_105_Lordik10032018/",
     "preview": "vite preview"
   },
   "devDependencies": {
